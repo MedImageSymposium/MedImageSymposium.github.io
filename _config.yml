@@ -18,7 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Medical Imaging Symposium for PhDs and Postdocs
+title: MISP² 2024
+author:
+  name: Joren Brunekreef
+  email: medimagesymp@gmail.com
 email: medimagesymp@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Temporary description
@@ -31,6 +34,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - about.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
