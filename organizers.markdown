@@ -6,7 +6,7 @@ permalink: /organizers/
 
 MISP² is organized by Andrey Zhylka, Joren Brunekreef, Sara Pires Oliveira, and Marek Oerlemans (all at the Netherlands Cancer Institute). You can reach us via [email][medsymmail].
 
-**Dr. Andrey Zhylka** is a postdoctoral researcher in prof. Theo Ruers group, working on segmentation and registration tasks for abdomen surgery navigation using CT, ultrasound, and MRI. He obtained his PhD from the Eindhoven University of Technology in 2023, specializing in fiber tractography in Diffusion MRI for neurosurgery planning of brain tumor patients.
+**Dr. Andrey Zhylka** is a postdoctoral researcher with prof. Theo Ruers and dr. Jonas Teuwen, working on segmentation and registration tasks for abdomen surgery navigation using CT, ultrasound, and MRI. He obtained his PhD from the Eindhoven University of Technology in 2023, specializing in fiber tractography in Diffusion MRI for neurosurgery planning of brain tumor patients.
 
 **Dr. Joren Brunekreef** works on developing AI methodology in the context of medical imaging, with a focus on uncertainty quantification for deep learning models. He is a postdoctoral researcher in the image-guided radiotherapy research group led by prof. Jan-Jakob Sonke and the AI for Oncology group led by dr. Jonas Teuwen. He obtained his PhD in 2023 from the Radboud University Nijmegen in the field of nonperturbative quantum gravity.
 
