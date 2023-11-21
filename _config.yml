@@ -35,6 +35,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - organizers.markdown
   - about.markdown
 
 # Exclude from processing.
