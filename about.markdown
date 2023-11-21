@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The Medical Imaging Symposium for PhDs and Postdocs will take place on Wednesday 17 November in the Piet Borst Auditorium at the [Netherlands Cancer Institute][nki]. More information is soon to follow!
+The Medical Imaging Symposium for PhDs and Postdocs will take place on Wednesday 17 January 2024 in the Piet Borst Auditorium at the [Netherlands Cancer Institute][nki]. More information is soon to follow!
 
 
 [nki]: https://www.nki.nl/
