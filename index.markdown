@@ -12,7 +12,7 @@ exclude: true
 </div>
 
 
-## MISP: 17 January 2024, Amsterdam
+## MISP²: 17 January 2024, Amsterdam
 
 MISP, traditionally an annual symposium for Netherlands-based PhD students in medical imaging, is making a comeback. Interrupted by lockdowns, it returns as MISP², now also including postdoctoral researchers. This event serves as a platform for networking and sharing your research, fostering collaboration and knowledge exchange in the medical imaging field.
 
