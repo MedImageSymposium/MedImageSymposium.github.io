@@ -28,18 +28,18 @@ In case you are willing to present, a submission of an __abstract of at most 250
 
 ### Program
 
-|Time|Block|
-|---|---|
-|08:30 - 09:00| Registration|
-|**09:00 - 10:00**|Keynote|
-|10:15 - 10:30| Break|
-|**10:30 - 12:00**| Student presentations|
-|12:00 - 12:45| Lunch|
-|**12:45 - 14:00**| Keynote|
-|**14:00 - 14:30**| Student presentations|
-|14:30 - 15:00| Coffee / tea break|
-|**15:00 - 17:00**| Student presentations|
-|17:00 - 18:00| Closing borrel|
+|Time| Block                         |
+|---|-------------------------------|
+|08:30 - 09:00| Registration                  |
+|**09:00 - 10:00**| Keynote                       |
+|10:15 - 10:30| Coffee and tea break          |
+|**10:30 - 12:00**| PhD and PostDoc presentations |
+|12:00 - 12:45| Lunch                         |
+|**12:45 - 14:00**| Keynote                       |
+|**14:00 - 14:30**| PhD and PostDoc presentations |
+|14:30 - 15:00| Coffee and tea break          |
+|**15:00 - 17:00**| Student presentations         |
+|17:00 - 18:00| Closing borrel                |
 
 Two keynotes are planned for the event.\
 Keynote 1: Dr. Efstratios Gavves. Causal and Dynamical Computer Vision towards Cyberphysical AI.\
