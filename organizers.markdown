@@ -5,18 +5,18 @@ permalink: /organizers/
 ---
 
 <style type="text/css" media="screen">
-.organizer { overflow: hidden; margin-bottom: 20px; }
-.bio { width: 60%; float: left; }
-.image { width: 40%; float: right; }
-.image img { border-radius: 50%; width: 100px; height: 100px; }
-.left { float: left; }
-.right { float: right; }
+    .organizer { overflow: hidden; margin-bottom: 20px; }
+    .bio { width: 60%; float: left; }
+    .image { width: 40%; float: right; }
+    .image img { border-radius: 50%; width: 100px; height: 100px; }
+    .left { float: left; }
+    .right { float: right; }
 
 /* Responsive adjustments */
-@media (max-width: 768px) {
-    .bio, .image { float: none; width: 100%; }
-    .image img { width: 50px; height: 50px; }
-}
+    @media (max-width: 768px) {
+        .bio, .image { float: none; width: 100%; }
+        .image img { width: 50px; height: 50px; }
+    }
 </style>
 
 MISP² is organized by Andrey Zhylka, Joren Brunekreef, Sara Pires Oliveira, Marek Oerlemans (all at the Netherlands Cancer Institute) and Efstratios (Stratis) Gavves. You can reach us via [email][medsymmail].
