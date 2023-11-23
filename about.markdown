@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 20px;">
     <img src="/assets/126502_Give%20me%20an%20image%20where%20researchers%20are%20standing%20in_xl-1024-v1-0.png" alt="Description of the image" style="width: 400px; border-radius: 50%;" />
 </div>
 

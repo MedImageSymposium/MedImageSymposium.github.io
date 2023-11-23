@@ -7,7 +7,7 @@ title: Medical Imaging Symposium for PhDs and Postdocs 2024
 exclude: true
 ---
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 20px;">
     <img src="assets/docter_in_front_of_medical_image.png" alt="Description of the image" style="width: 400px; border-radius: 50%;" />
 </div>
 
