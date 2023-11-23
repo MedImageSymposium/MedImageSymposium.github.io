@@ -7,7 +7,9 @@ title: Medical Imaging Symposium for PhDs and Postdocs 2024
 exclude: true
 ---
 
-<img src="assets/docter_in_front_of_medical_image.png" alt="Description of the image" width="300"/>
+<div style="text-align: center;">
+    <img src="assets/docter_in_front_of_medical_image.png" alt="Description of the image" style="width: 400px; border-radius: 50%;" />
+</div>
 
 
 ## MISP: 17 January 2024, Amsterdam
