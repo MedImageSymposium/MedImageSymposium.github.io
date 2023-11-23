@@ -12,7 +12,7 @@ MISP² is organized by Andrey Zhylka, Joren Brunekreef, Sara Pires Oliveira, Mar
 </p>
     </div>
     <div class="image right">
-        <img src="assets/andrey.png" alt="Organizer Name">
+        <img src="/assets/andrey.png" alt="Andrey">
     </div>
 </div>
 
@@ -22,7 +22,7 @@ MISP² is organized by Andrey Zhylka, Joren Brunekreef, Sara Pires Oliveira, Mar
 </p>
     </div>
     <div class="image left">
-        <img src="assets/joren.png" alt="Organizer Name">
+        <img src="/assets/joren.png" alt="Joren">
     </div>
 </div>
 
@@ -32,7 +32,7 @@ MISP² is organized by Andrey Zhylka, Joren Brunekreef, Sara Pires Oliveira, Mar
 </p>
     </div>
     <div class="image right">
-        <img src="assets/sara.jpg" alt="Organizer Name">
+        <img src="/assets/sara.jpg" alt="Sara">
     </div>
 </div>
 
@@ -42,7 +42,7 @@ MISP² is organized by Andrey Zhylka, Joren Brunekreef, Sara Pires Oliveira, Mar
 </p>
     </div>
     <div class="image left">
-        <img src="assets/marek.png" alt="Organizer Name">
+        <img src="/assets/marek.png" alt="Marek">
     </div>
 </div>
 
@@ -52,7 +52,7 @@ MISP² is organized by Andrey Zhylka, Joren Brunekreef, Sara Pires Oliveira, Mar
 </p>
     </div>
     <div class="image right">
-        <img src="assets/stratis.jpg" alt="Organizer Name">
+        <img src="/assets/stratis.jpg" alt="Stratis">
     </div>
 </div>
 
