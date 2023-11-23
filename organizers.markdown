@@ -28,7 +28,7 @@ MISP² is organized by Andrey Zhylka, Joren Brunekreef, Sara Pires Oliveira, Mar
 
 <div class="organizer">
     <div class="bio left">
-        <p><b>Dr. Sara Pires Oliveira</b> is a postdoctoral researcher in the groups led by Hugo Horlings and Marleen Kok. With a background in biomedical engineering (MSc) and a PhD in computational pathology (University of Porto, 2022), Sara's work is focused on improving cancer (imunno)therapy through computational pathology, whole-slide image analysis, and machine learning.
+        <p><b>Dr. Sara Pires Oliveira</b> is a postdoctoral researcher in the groups led by dr. Hugo Horlings and dr. Marleen Kok. With a background in biomedical engineering (MSc) and a PhD in computational pathology (University of Porto, 2022), Sara's work is focused on improving cancer (imunno)therapy through computational pathology, whole-slide image analysis, and machine learning.
 </p>
     </div>
     <div class="image right">
@@ -38,7 +38,7 @@ MISP² is organized by Andrey Zhylka, Joren Brunekreef, Sara Pires Oliveira, Mar
 
 <div class="organizer">
     <div class="bio right">
-        <p><b>Marek Oerlemans</b> is a PhD student under the supervision of Jelle Wesseling and Jonas Teuwen. With a background in mathematics, Marek's research focuses on creating models for predicting invasive breast cancer following DCIS (Ductal Carcinoma in Situ). His work aims to contribute to the enhancement of treatment decisions, enhancing the precision and effectiveness of diagnostic processes using deep learning methods.
+        <p><b>Marek Oerlemans</b> is a PhD student under the supervision of prof. Jelle Wesseling and dr. Jonas Teuwen. With a background in mathematics, Marek's research focuses on creating models for predicting invasive breast cancer following DCIS (Ductal Carcinoma in Situ). His work aims to contribute to the enhancement of treatment decisions, enhancing the precision and effectiveness of diagnostic processes using deep learning methods.
 </p>
     </div>
     <div class="image left">
