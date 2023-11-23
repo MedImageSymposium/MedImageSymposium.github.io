@@ -4,6 +4,4 @@ title: Registration
 permalink: /registration/
 ---
 
-# My Embedded Content
-
-{% include custom-registration.html %}
+[Open Google Form](/_includes/custom-registration.html)
