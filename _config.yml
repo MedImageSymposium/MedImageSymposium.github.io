@@ -37,10 +37,9 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - schedule.markdown
   - organizers.markdown
   - about.markdown
-  - text: Registration
-    url: https://forms.gle/tNMHwrKbQXJDgPby6
 
 # Exclude from processing.
 # The following items will not be processed, by default.
