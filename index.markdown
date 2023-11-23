@@ -28,8 +28,8 @@ In case you are willing to present, a submission of an __abstract of at most 250
 14:30 - 15:00 Coffee / tea break\
 17:00 - 18:00 Closing borrel
 
-Two keynotes are planned for the event.
-Keynote 1: Dr. Efstratios Gavves. Causal and Dynamical Computer Vision towards Cyberphysical AI.
+Two keynotes are planned for the event.\
+Keynote 1: Dr. Efstratios Gavves. Causal and Dynamical Computer Vision towards Cyberphysical AI.\
 Keynote 2: TBA
 
 More information is soon to follow!
