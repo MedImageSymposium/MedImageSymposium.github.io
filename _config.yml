@@ -39,6 +39,9 @@ plugins:
 header_pages:
   - organizers.markdown
   - about.markdown
+  - external:
+      text: Registration
+      url: https://forms.gle/tNMHwrKbQXJDgPby6
 
 # Exclude from processing.
 # The following items will not be processed, by default.
