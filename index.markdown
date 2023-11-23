@@ -22,7 +22,7 @@ The Medical Imaging Symposium for PhDs and Postdocs will take place on Wednesday
 Please, fill the following [registration form][gform].\
 \
 The deadline for registration will be **December 31** at 23:59.\
-Unfortunately, we can only host a limited number of people, thus in case of high demand the priority will be given to those who have an intention to present their work.
+We can only host a limited number of people, thus in case of high demand the priority will be given to those who have an intention to present their work.
 
 In case you are willing to present, a submission of an __abstract of at most 250 words__ is requested. Depending on the number of submissions, we are planning to have both full presentations (8 minutes) and power-pitches (2 minutes). We will try to find a balance in topics as well as group representation as much as possible.
 
