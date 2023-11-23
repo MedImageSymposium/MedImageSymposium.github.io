@@ -22,10 +22,10 @@ Unfortunately, we can only host a limited number of people, thus in case of high
 In case you are willing to present, a submission of an __abstract of at most 250 words__ is requested. Depending on the number of submissions, we are planning to have both full presentations (8 minutes) and power-pitches (2 minutes). We will try to find a balance in topics as well as group representation as much as possible.
 
 ### Program
-08:30 - 09:00 Registration
-10:15 - 10:30 Break
-12:00 - 12:45 Lunch in foyer with simple hard and soft bread milk / juice
-14:30 - 15:00 Coffee / tea break
+08:30 - 09:00 Registration\
+10:15 - 10:30 Break\
+12:00 - 12:45 Lunch in foyer with simple hard and soft bread milk / juice\
+14:30 - 15:00 Coffee / tea break\
 17:00 - 18:00 Closing borrel
 
 Two keynotes are planned for the event.
