@@ -12,7 +12,7 @@ MISP² is organized by Andrey Zhylka, Joren Brunekreef, Sara Pires Oliveira, Mar
 </p>
     </div>
     <div class="image right">
-        <img src="/assets/andrey.png" alt="Andrey">
+        <img src="/assets/andrey.jpg" alt="Andrey">
     </div>
 </div>
 
