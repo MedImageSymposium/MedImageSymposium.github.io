@@ -1,13 +1,19 @@
 
 <style type="text/css" media="screen">
     .organizer, .speaker { overflow: hidden; margin-bottom: 20px; }
-    .bio { width: 70%; float: left; }
+    .bio { width: 80%; float: left; }
     .speakerbio { width: 70%; float: left; }
-    .image { width: 30%; float: right; }
+    .image { width: calc(20% - 20px); padding: 10px; float: right; }
     .speakerimage { width: 30%; float: right; }
-    .image img, .speakerimage img {
+    .image img {
         border-radius: 50%;
-        width: 60%; /* Scale with parent width */
+        width: 100%; /* Scale with parent width */
+        height: auto; /* Maintain aspect ratio */
+        max-width: 400px; /* Set a maximum width relative to parent */
+    }
+    .speakerimage img {
+        border-radius: 50%;
+        width: 100%; /* Scale with parent width */
         height: auto; /* Maintain aspect ratio */
         max-width: 400px; /* Set a maximum width relative to parent */
     }
