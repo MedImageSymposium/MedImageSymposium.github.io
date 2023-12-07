@@ -9,14 +9,14 @@ permalink: /schedule/
 |Time| Block                         |
 |---|-------------------------------|
 |08:30 - 09:00| Registration                  |
-|**09:00 - 10:00**| Keynote                       |
+|**09:00 - 10:15**| Keynote                       |
 |10:15 - 10:30| Coffee and tea break          |
 |**10:30 - 12:00**| PhD and PostDoc presentations |
 |12:00 - 12:45| Lunch                         |
 |**12:45 - 14:00**| Keynote                       |
 |**14:00 - 14:30**| PhD and PostDoc presentations |
 |14:30 - 15:00| Coffee and tea break          |
-|**15:00 - 17:00**| Student presentations         |
+|**15:00 - 17:00**| PhD and PostDoc presentations         |
 |17:00 - 18:00| Closing borrel                |
 
 
