@@ -10,14 +10,14 @@ permalink: /schedule/
 |---|-------------------------------|
 |08:30 - 09:00| Registration                  |
 |**09:00 - 10:15**| Keynote                       |
-|10:15 - 10:30| Coffee and tea break          |
-|**10:30 - 12:00**| PhD and PostDoc presentations |
+|10:15 - 10:30| Coffee break          |
+|**10:30 - 12:00**| Session 1: CT & Pathology |
 |12:00 - 12:45| Lunch                         |
-|**12:45 - 14:30**| PhD and PostDoc presentations |
+|**12:45 - 14:30**| Session 2: MRI |
 |14:30 - 15:00| Coffee and tea break          |
-|**15:00 - 16:00**| PhD and PostDoc presentations         |
+|**15:00 - 16:00**| Session 3.1: Other modalities         |
 |**16:00 - 16:10**| Break         |
-|**16:10 - 17:00**| PhD and PostDoc presentations         |
+|**16:10 - 17:00**| Session 3.2: Other modalities         |
 |17:00 - 18:00| Closing borrel                |
 
 

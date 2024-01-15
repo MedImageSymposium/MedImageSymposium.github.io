@@ -18,6 +18,16 @@ MISP, traditionally an annual symposium for Netherlands-based PhD students in me
 
 The Medical Imaging Symposium for PhDs and Postdocs will take place on Wednesday 17 January 2024 in the Piet Borst Auditorium at the [Netherlands Cancer Institute][nki].
 
+### Abstract booklet
+
+<div style="margin-bottom: 20px;">
+    <a href="/assets/MISP_booklet_vf.pdf">
+        <img src="/assets/MISP_booklet_vf-01.png" alt="MISP booklet" style="width: 200px;" />
+    </a>
+    <p>Click on the image to view the MISP schedule and abstract booklet</p>
+</div>
+
+<!--
 ### Registration
 Please, fill the following [registration form][gform].\
 \
@@ -28,7 +38,7 @@ In case you are willing to present, a submission of an __abstract of at most 250
 
 
 More information is soon to follow!
-
+--!>
 
 [nki]: https://www.nki.nl/
 [gform]: https://forms.gle/tNMHwrKbQXJDgPby6
