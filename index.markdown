@@ -24,7 +24,6 @@ The Medical Imaging Symposium for PhDs and Postdocs will take place on Wednesday
     <a href="/assets/MISP_booklet_vf.pdf">
         <img src="/assets/MISP_booklet_vf-01.png" alt="MISP booklet" style="width: 200px;" />
     </a>
-    <p>Click on the image to view the MISP schedule and abstract booklet</p>
 </div>
 
 <!--
@@ -38,7 +37,8 @@ In case you are willing to present, a submission of an __abstract of at most 250
 
 
 More information is soon to follow!
---!>
+
 
 [nki]: https://www.nki.nl/
 [gform]: https://forms.gle/tNMHwrKbQXJDgPby6
+--!>
