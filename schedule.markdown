@@ -13,16 +13,15 @@ permalink: /schedule/
 |10:15 - 10:30| Coffee and tea break          |
 |**10:30 - 12:00**| PhD and PostDoc presentations |
 |12:00 - 12:45| Lunch                         |
-|**12:45 - 14:00**| Keynote                       |
-|**14:00 - 14:30**| PhD and PostDoc presentations |
+|**12:45 - 14:30**| PhD and PostDoc presentations |
 |14:30 - 15:00| Coffee and tea break          |
-|**15:00 - 17:00**| PhD and PostDoc presentations         |
+|**15:00 - 16:00**| PhD and PostDoc presentations         |
+|**16:00 - 16:10**| Break         |
+|**16:10 - 17:00**| PhD and PostDoc presentations         |
 |17:00 - 18:00| Closing borrel                |
 
 
-## Keynotes
-Two keynotes are planned for the event.
-
+## Keynote
 
 <div class="speaker">
     <div class="speakerbio left">
