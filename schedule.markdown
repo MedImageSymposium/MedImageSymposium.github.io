@@ -32,4 +32,4 @@ permalink: /schedule/
         <img src="/assets/stratis.jpg" alt="Stratis">
     </div>
 </div>
-Keynote 2: TBA
+
