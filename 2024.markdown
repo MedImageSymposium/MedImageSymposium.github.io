@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Medical Imaging Symposium for PhDs and Postdocs 2024
+title: Medical Imaging Symposium for PhDs and Postdocs 2025
 exclude: true
 ---
 
@@ -12,12 +12,19 @@ exclude: true
 </div>
 
 
-## MISP²: 17 January 2024, Amsterdam
+## MISP²: 15 January 2025, Enschede
 
-MISP, traditionally an annual symposium for Netherlands-based PhD students in medical imaging, is making a comeback. Interrupted by lockdowns, it returns as MISP², now also including postdoctoral researchers. This event serves as a platform for networking and sharing your research, fostering collaboration and knowledge exchange in the medical imaging field.
+After a successful return of MISP² in 2024, we continue the event in 2025 at the University of Twente! MISP² is an annual symposium for Netherlands-based PhD students and postdoctoral researchers in medical imaging. The event serves as a platform for networking and sharing your research, fostering collaboration and knowledge exchange in the medical imaging field.\
+\
+The Medical Imaging Symposium for PhDs and Postdocs will take place on Wednesday 15 January 2025 in the [TechMed Center](https://www.utwente.nl/en/techmed/) of the University of Twente.
 
-The Medical Imaging Symposium for PhDs and Postdocs will take place on Wednesday 17 January 2024 in the Piet Borst Auditorium at the [Netherlands Cancer Institute](https://www.nki.nl/).
+## More information?
 
+You can find information about the programme and registration on [this event page](https://www.utwente.nl/en/techmed/events/upcoming-events/2025/1/1669968/medical-imaging-symposium-for-phds-and-postdocs-2025).\
+\
+Follow our [LinkedIn page](https://www.linkedin.com/company/misp2) for updates!
+
+<!--
 ### Abstract booklet
 
 <div style="margin-bottom: 20px;">
@@ -26,7 +33,6 @@ The Medical Imaging Symposium for PhDs and Postdocs will take place on Wednesday
     </a>
 </div>
 
-<!--
 ### Registration
 Please, fill the following [registration form][gform].\
 \

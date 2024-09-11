@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MISP² 2024
+title: MISP² 2025
 author:
-  email: medimagesymp@gmail.com
-email: medimagesymp@gmail.com
+  email: misp2@utwente.nl
+email: misp2@utwente.nl
 description: >- # this means to ignore newlines until "baseurl:"
 
 markdown: GFM
@@ -37,8 +37,6 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - schedule.markdown
-  - organizers.markdown
   - about.markdown
 
 # Exclude from processing.
