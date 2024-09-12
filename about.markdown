@@ -14,7 +14,7 @@ The Medical Imaging Symposium for PhDs and Postdocs will take place on Wednesday
 
 ### MISP²:
 
-2024: Amsterdam - Netherlands Cancer Institute\
+2024: Amsterdam - Netherlands Cancer Institute
 
 ### MISP, the predecessor of MISP²:
 
