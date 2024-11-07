@@ -38,6 +38,7 @@ plugins:
 
 header_pages:
   - about.markdown
+  - 2024.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
