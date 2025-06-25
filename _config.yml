@@ -36,6 +36,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+include:
+  - _pages
+
 exclude:
   - .vscode/
   - .sass-cache/
