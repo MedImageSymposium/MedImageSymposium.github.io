@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Medical Imaging Symposium for PhDs and Postdocs 2025
+title: Medical Imaging Symposium for PhDs and Postdocs 2026
 permalink: /
 ---
 
