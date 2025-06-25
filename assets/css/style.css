@@ -1,0 +1,29 @@
+/* ============================
+   Organizer & Speaker Layout
+   ============================ */
+
+.organizer, .speaker { overflow: hidden; margin-bottom: 20px; }
+.bio { width: 80%; float: left; }
+.speakerbio { width: 75%; float: left; }
+.image { width: calc(20% - 20px); padding: 10px; float: right; }
+.speakerimage { width: calc(25% - 20px); padding: 10px; float: right; }
+.image img {
+    border-radius: 50%;
+    width: 100%; /* Scale with parent width */
+    height: auto; /* Maintain aspect ratio */
+    max-width: 400px; /* Set a maximum width relative to parent */
+}
+.speakerimage img {
+    border-radius: 50%;
+    width: 100%; /* Scale with parent width */
+    height: auto; /* Maintain aspect ratio */
+    max-width: 400px; /* Set a maximum width relative to parent */
+}
+.left { float: left; }
+.right { float: right; }
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .bio, .image { float: none; width: 100%; }
+    .image img { max-width: 50%; } /* Set a maximum width relative to parent */
+}

@@ -1,0 +1,31 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: page
+title: Edition 2025
+permalink: /previous/2025/
+exclude: true
+---
+
+<div style="text-align: center; margin-bottom: 20px;">
+    <img src="/assets/images/brain_doc.png" alt="Description of the image" style="width: 400px; border-radius: 50%;" />
+</div>
+
+
+## MISP²: 15 January 2025, Enschede
+
+After a successful return of MISP² in 2024, we continue the event in 2025 at the University of Twente! MISP² is an annual symposium for Netherlands-based PhD students and postdoctoral researchers in medical imaging. The event serves as a platform for networking and sharing your research, fostering collaboration and knowledge exchange in the medical imaging field.\
+\
+The Medical Imaging Symposium for PhDs and Postdocs will take place on Wednesday 15 January 2025 in the [TechMed Center](https://www.utwente.nl/en/techmed/) of the University of Twente.
+
+### Abstract booklet
+
+<div style="margin-bottom: 20px;">
+    <a href="/assets/booklets/MISP2-booklet-2025.pdf">
+        <img src="/assets/booklets/MISP2-booklet-2025.png" alt="MISP booklet" style="width: 200px;" />
+    </a>
+</div>
+
+### Organization
+MISP² 2025 was organized by members of research groups [Mathematics of Imaging & AI (MIA)](https://www.utwente.nl/en/eemcs/mia/), [Physics of Fluids (PoF)](https://pof.tnw.utwente.nl/) and [Multi-Modality Medical Imaging (M3i)](https://www.utwente.nl/en/tnw/m3i/) research groups at the University of Twente - TechMed Centre. 
