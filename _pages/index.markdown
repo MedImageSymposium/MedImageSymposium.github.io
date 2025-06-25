@@ -4,7 +4,7 @@
 
 layout: page
 title: Medical Imaging Symposium for PhDs and Postdocs 2025
-exclude: true
+permalink: /
 ---
 
 <div style="text-align: center; margin-bottom: 20px;">

@@ -1,0 +1,23 @@
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    <!-- Navigation -->
+    <nav>
+      <ul>
+        <li><a href="{{ '/index/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+        <li class="dropdown">
+          <a href="#">Previous editions</a>
+          <ul class="dropdown-content">
+            <li><a href="{{ '/previous/2024/' | relative_url }}">2024</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+
+  </div>
+</header>
