@@ -43,6 +43,7 @@ exclude:
   - .vscode/
   - .sass-cache/
   - .jekyll-cache/
+  - README.md
   - gemfiles/
   - Gemfile
   - Gemfile.lock
