@@ -4,4 +4,4 @@ title: Registration
 permalink: /registration/
 ---
 
-[Open Google Form](/_includes/custom-registration.html)
+Link to registration form, or include registration form
