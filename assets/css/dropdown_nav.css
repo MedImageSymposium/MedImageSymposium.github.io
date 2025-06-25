@@ -20,7 +20,7 @@ nav a {
   display: none;
   position: absolute;
   top: 100%;
-  left: 0;
+  right: 0;
   background: white;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
   z-index: 1000;
