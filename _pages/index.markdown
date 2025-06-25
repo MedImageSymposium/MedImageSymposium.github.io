@@ -3,28 +3,31 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Medical Imaging Symposium for PhDs and Postdocs 2026
+title: Medical Imaging Symposium 2026
 permalink: /
 ---
+
+MISP² is an annual symposium for Netherlands-based PhD students and postdoctoral researchers in medical imaging. The event serves as a platform for networking and sharing your research, fostering collaboration and knowledge exchange in the medical imaging field.
 
 <div style="text-align: center; margin-bottom: 20px;">
     <img src="/assets/docter_in_front_of_medical_image.png" alt="Description of the image" style="width: 400px; border-radius: 50%;" />
 </div>
 
 
-## MISP²: 15 January 2025, Enschede
+## MISP²: January 2026, Leiden
 
-After a successful return of MISP² in 2024, we continue the event in 2025 at the University of Twente! MISP² is an annual symposium for Netherlands-based PhD students and postdoctoral researchers in medical imaging. The event serves as a platform for networking and sharing your research, fostering collaboration and knowledge exchange in the medical imaging field.\
-\
-The Medical Imaging Symposium for PhDs and Postdocs will take place on Wednesday 15 January 2025 in the [TechMed Center](https://www.utwente.nl/en/techmed/) of the University of Twente.
+After a successful return of MISP² in 2024 and 2025, we continue the event in 2026 at the [Leiden University Medical Center (LUMC)](https://www.lumc.nl/en/)!
 
+More information about the exact date and registration will follow soon.
+
+<!--
 ## More information?
 
 You can find information about the programme and registration on [this event page](https://www.utwente.nl/en/techmed/events/upcoming-events/2025/1/1669968/medical-imaging-symposium-for-phds-and-postdocs-2025).\
 \
 Follow our [LinkedIn page](https://www.linkedin.com/company/misp2) for updates!
 
-<!--
+
 ### Abstract booklet
 
 <div style="margin-bottom: 20px;">
