@@ -10,7 +10,7 @@ permalink: /
 MISP² is an annual symposium for Netherlands-based PhD students and postdoctoral researchers in medical imaging. The event serves as a platform for networking and sharing your research, fostering collaboration and knowledge exchange in the medical imaging field.
 
 <div style="text-align: center; margin-bottom: 20px;">
-    <img src="/assets/brain_doc.png" alt="Description of the image" style="width: 400px; border-radius: 50%;" />
+    <img src="/assets/images/brain_doc.png" alt="Description of the image" style="width: 400px; border-radius: 50%;" />
 </div>
 
 

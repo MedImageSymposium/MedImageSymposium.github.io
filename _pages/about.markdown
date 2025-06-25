@@ -27,7 +27,7 @@ MISP², the Medical Imaging Symposium, is an annual event for and by PhD candida
 </div>
 
 <div style="flex: 0 0 200px; text-align: right;">
-    <img src="/assets/discussion_illustration.png" alt="Description of the image" style="width: 100%; max-width: 200px; border-radius: 50%;" />
+    <img src="/assets/images/discussion_illustration.png" alt="Description of the image" style="width: 100%; max-width: 200px; border-radius: 50%;" />
 </div>
 
 </div>

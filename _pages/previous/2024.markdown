@@ -9,7 +9,7 @@ exclude: true
 ---
 
 <div style="text-align: center; margin-bottom: 20px;">
-    <img src="/assets/brain_doc.png" alt="Description of the image" style="width: 400px; border-radius: 50%;" />
+    <img src="/assets/images/brain_doc.png" alt="Description of the image" style="width: 400px; border-radius: 50%;" />
 </div>
 
 
@@ -22,8 +22,8 @@ The Medical Imaging Symposium for PhDs and Postdocs will take place on Wednesday
 ### Abstract booklet
 
 <div style="margin-bottom: 20px;">
-    <a href="/assets/MISP2-booklet-2024.pdf">
-        <img src="/assets/MISP2-booklet-2024.png" alt="MISP booklet" style="width: 200px;" />
+    <a href="/assets/booklets/MISP2-booklet-2024.pdf">
+        <img src="/assets/booklets/MISP2-booklet-2024.png" alt="MISP booklet" style="width: 200px;" />
     </a>
 </div>
 
@@ -37,7 +37,7 @@ MISP² is organized by Andrey Zhylka, Joren Brunekreef, Sara Pires Oliveira, Mar
 </p>
     </div>
     <div class="image right">
-        <img src="/assets/2024/andrey.jpg" alt="Andrey">
+        <img src="/assets/images/2024/andrey.jpg" alt="Andrey">
     </div>
 </div>
 
@@ -47,7 +47,7 @@ MISP² is organized by Andrey Zhylka, Joren Brunekreef, Sara Pires Oliveira, Mar
 </p>
     </div>
     <div class="image left">
-        <img src="/assets/2024//joren.jpg" alt="Joren">
+        <img src="/assets/images/2024/joren.jpg" alt="Joren">
     </div>
 </div>
 
@@ -57,7 +57,7 @@ MISP² is organized by Andrey Zhylka, Joren Brunekreef, Sara Pires Oliveira, Mar
 </p>
     </div>
     <div class="image right">
-        <img src="/assets/2024//sara.jpg" alt="Sara">
+        <img src="/assets/images/2024/sara.jpg" alt="Sara">
     </div>
 </div>
 
@@ -67,7 +67,7 @@ MISP² is organized by Andrey Zhylka, Joren Brunekreef, Sara Pires Oliveira, Mar
 </p>
     </div>
     <div class="image left">
-        <img src="/assets/2024//marek.png" alt="Marek">
+        <img src="/assets/images/2024/marek.png" alt="Marek">
     </div>
 </div>
 
