@@ -10,9 +10,8 @@ permalink: /
 MISP² is an annual symposium for Netherlands-based PhD students and postdoctoral researchers in medical imaging. The event serves as a platform for networking and sharing your research, fostering collaboration and knowledge exchange in the medical imaging field.
 
 <div style="text-align: center; margin-bottom: 20px;">
-    <img src="/assets/images/brain_doc.png" alt="Description of the image" style="width: 400px; border-radius: 50%;" />
+    <img src="/assets/images//2026/main_graphic_eight.png" alt="Leiden anatomical theatre in a new light" style="width: 400px;" />
 </div>
-
 
 ## MISP²: January 2026, Leiden
 
