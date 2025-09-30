@@ -24,6 +24,8 @@ After a successful return of MISP² in 2024 and 2025, we continue the event in 2
 
 More information about the registration will follow soon. 
 
+Follow our [LinkedIn page](https://www.linkedin.com/company/misp2) for updates!
+
 <!--
 ## More information?
 
