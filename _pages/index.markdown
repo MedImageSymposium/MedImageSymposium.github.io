@@ -18,7 +18,11 @@ MISP² is an annual symposium for Netherlands-based PhD students and postdoctora
 
 After a successful return of MISP² in 2024 and 2025, we continue the event in 2026 at the [Leiden University Medical Center (LUMC)](https://www.lumc.nl/en/)!
 
-More information about the exact date and registration will follow soon.
+- **Date**: 27 Jan 2026, 9:00 – 17:00
+- **Location**: Collegezaal 5 (Room K-01-086, Route 558, main building) <small>(Maps: [inside](https://www.lumc.nl/siteassets/over-het-lumc/contact-algemeen/bestanden/lumc-routekaart-hoofdgebouw.pdf) and [outside](https://www.lumc.nl/siteassets/patientenzorg/uw-bezoek-aan-het-lumc/vind-uw-weg/parkeren/bestanden/plattegrond_lumc_eng.pdf) the hospital)</small>
+- **Registration**: Will be open from 15 Oct to 15 Dec 2025
+
+More information about the registration will follow soon. 
 
 <!--
 ## More information?
