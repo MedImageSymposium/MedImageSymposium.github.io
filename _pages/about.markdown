@@ -14,8 +14,8 @@ MISP², the Medical Imaging Symposium, is an annual event for and by PhD candida
 
 ### MISP²:
 
-2025: Enschede - University of Twente\
-2024: Amsterdam - Netherlands Cancer Institute
+<a href="{{ '/previous/2025/' | relative_url }}">2025</a>: Enschede - University of Twente\
+<a href="{{ '/previous/2024/' | relative_url }}">2024</a>: Amsterdam - Netherlands Cancer Institute
 
 ### MISP, the predecessor of MISP²:
 
