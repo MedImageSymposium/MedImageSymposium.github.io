@@ -25,7 +25,7 @@ Structure:
 
 - `_pages`: contains the contents of the webpage in markdown format
 - `_layouts` and `_includes`: define the webpage format
-- `assets`: contains images, documents, styes, etc.
+- `assets`: contains images, documents, styles, etc.
 
 ## Local development
 
