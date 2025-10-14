@@ -19,7 +19,7 @@ Please note that the number of short talk slots is limited due to time constrain
 
 The __registration deadline__ is 15 Dec 2026 at 23:59.
 
-We can only host a limited number of people, thus in case of high demand the prioritize early registrations.
+We can only host a limited number of people, thus in case of high demand we will prioritize early registrations.
 
 There is no registration fee.
 
