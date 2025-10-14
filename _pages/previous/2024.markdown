@@ -3,17 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Edition 2024
+title: "Edition 2024: Amsterdam"
 permalink: /previous/2024/
 exclude: true
 ---
-
-<div style="text-align: center; margin-bottom: 20px;">
-    <img src="/assets/images/brain_doc.png" alt="Description of the image" style="width: 400px; border-radius: 50%;" />
-</div>
-
-
-## MISP²: 17 January 2024, Amsterdam
 
 MISP, traditionally an annual symposium for Netherlands-based PhD students in medical imaging, is making a comeback. Interrupted by lockdowns, it returns as MISP², now also including postdoctoral researchers. This event serves as a platform for networking and sharing your research, fostering collaboration and knowledge exchange in the medical imaging field.
 
@@ -28,8 +21,7 @@ The Medical Imaging Symposium for PhDs and Postdocs will take place on Wednesday
 </div>
 
 ### Organization
-MISP² is organized by Andrey Zhylka, Joren Brunekreef, Sara Pires Oliveira, Marek Oerlemans (all at the Netherlands Cancer Institute).
-
+MISP² was organized by Andrey Zhylka, Joren Brunekreef, Sara Pires Oliveira, Marek Oerlemans (all at the Netherlands Cancer Institute) and took place on 17 January 2024.
 
 <div class="organizer">
     <div class="bio left">
@@ -69,6 +61,10 @@ MISP² is organized by Andrey Zhylka, Joren Brunekreef, Sara Pires Oliveira, Mar
     <div class="image left">
         <img src="/assets/images/2024/marek.png" alt="Marek">
     </div>
+</div>
+
+<div style="text-align: center; margin-bottom: 20px;">
+    <img src="/assets/images/brain_doc.png" alt="Description of the image" style="width: 400px; border-radius: 50%;" />
 </div>
 
 <!--
