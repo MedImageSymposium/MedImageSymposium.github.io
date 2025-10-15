@@ -15,7 +15,7 @@ To register, please fill in [__this form__](https://forms.gle/SYx6ZPJWLxLQ6UtU7)
 You may register for either a poster presentation, a short talk or simply to participate in the symposium.
 
 If you intend to present your work in form of a poster or a short talk (~8 minutes), please provide a short abstract (250 words max) through the registration form.
-Please note that the number of short talk slots is limited due to time constraints. If we receive more requests than available slots, some submissions may be moved to the poster session. Thank you for your understanding.
+Please note that the number of short talk slots is limited due to time constraints. If we receive more requests for talks than available slots, some submissions may be moved to the poster session. Thank you for your understanding.
 
 The __registration deadline__ is 15 Dec 2026 at 23:59.
 
