@@ -27,3 +27,30 @@
     .bio, .image { float: none; width: 100%; }
     .image img { max-width: 50%; } /* Set a maximum width relative to parent */
 }
+
+/* program */
+.schedule-container {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 10px 30px;
+}
+.schedule-item {
+    display: flex;
+    padding: 15px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+.schedule-item:last-child {
+    border-bottom: none;
+}
+.time {
+    font-weight: bold;
+    color: #3498db;
+    min-width: 130px;
+    font-size: 1.1em;
+}
+.activity {
+    color: #34495e;
+    flex: 1;
+    font-size: 1.05em;
+}
