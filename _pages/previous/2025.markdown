@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: "Edition 2025: Enschede"
+title: "2025: Enschede"
 permalink: /previous/2025/
 exclude: true
 ---

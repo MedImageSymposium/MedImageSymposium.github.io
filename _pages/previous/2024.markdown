@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: "Edition 2024: Amsterdam"
+title: "2024: Amsterdam"
 permalink: /previous/2024/
 exclude: true
 ---
