@@ -45,12 +45,11 @@
 }
 .time {
     font-weight: bold;
-    color: #3498db;
+    color: #777777;
     min-width: 130px;
-    font-size: 1.1em;
+    font-size: 1.05em;
 }
 .activity {
-    color: #34495e;
     flex: 1;
     font-size: 1.05em;
 }
