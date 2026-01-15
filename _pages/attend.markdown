@@ -10,14 +10,13 @@ We are excited to welcome you in Leiden for MISP² 2026! Are you interested in p
 
 MISP² 2026 will take place on January 27th 2026, at the Leiden Medical University Centre.
 
-To register, please fill in [__this form__](https://forms.gle/SYx6ZPJWLxLQ6UtU7).
+The __registration deadline__ was 15 Dec 2025 at 23:59. Registration for this year is closed.
 
 You may register for either a poster presentation, a short talk (~8 minutes) or simply to participate in the symposium. We especially encourage you to share work-in-progress and open challenges, but you are welcome to present any medical imaging related work, whether it's new or something you've previously published, or presented. Our primary aim is to foster collaborations inside the Netherlands.
 
 If you intend to present your work, please provide a short abstract (250 words max) through the registration form.
 Note, that the number of short talk slots is limited due to time constraints. If we receive more requests for talks than available slots, some submissions may be moved to the poster session. Thank you for your understanding.
 
-The __registration deadline__ is 15 Dec 2025 at 23:59.
 
 We can only host a limited number of people, thus in case of high demand we will prioritize early registrations.
 
