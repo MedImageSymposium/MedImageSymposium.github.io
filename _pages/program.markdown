@@ -4,7 +4,9 @@ title: Program
 permalink: /program/
 ---
 
-The final program of MISP² 2026 will be confirmed later this year.
+**Date**: 27 Jan 2026, 9:00 – 17:00 <br>
+**Location**: Collegezaal 5 (Room K-01-086, Route 558, main LUMC building) <small>(Maps: [inside](https://www.lumc.nl/siteassets/over-het-lumc/contact-algemeen/bestanden/lumc-routekaart-hoofdgebouw.pdf) and [outside](https://www.lumc.nl/siteassets/patientenzorg/uw-bezoek-aan-het-lumc/vind-uw-weg/parkeren/bestanden/plattegrond_lumc_eng.pdf))</small> <br>
+The program including all talk and poster details is available as a <a href="https://medimagesymposium.github.io/assets/booklets/MISP2-booklet-2026.pdf">PDF</a>.
 
 <div class="schedule-container">
    <div class="schedule-item">
@@ -99,3 +101,13 @@ The talk will cover practical, research-relevant insights, including: <br>
 - How to obtain quality-controlled annotated data. <br>
 - What tools to use to predict dataset requirements. <br>
 - How to maintain an increasing number of AI models in real-world applications. <br>
+
+## Abstract booklet
+
+All talk and poster details are listed in the MISP2 2026 booklet:
+
+<div style="margin-bottom: 20px;">
+    <a href="/assets/booklets/MISP2-booklet-2026.pdf">
+        <img src="/assets/booklets/MISP2-booklet-2026.png" alt="MISP booklet" style="width: 200px;" />
+    </a>
+</div>
