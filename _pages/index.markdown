@@ -10,16 +10,16 @@ permalink: /
 MISP² is an annual symposium for Netherlands-based PhD students and postdoctoral researchers in medical imaging. The event serves as a platform for networking and sharing your research, fostering collaboration and knowledge exchange in the medical imaging field.
 
 <div style="text-align: center; margin-bottom: 20px;">
-    <img src="/assets/images/2026/main_graphic_eight.png" alt="Leiden anatomical theatre in a new light" style="width: 400px;" />
+    <img src="/assets/images/2027/2027logo.png" alt="Amsterdam UMC MISP2 logo" style="width: 400px;" />
 </div>
 
-## MISP²: January 2026, Leiden
+## MISP²: January 2027, Amsterdam
 
-After a successful return of MISP² in 2024 and 2025, we continue the event in 2026 at the [Leiden University Medical Center (LUMC)](https://www.lumc.nl/en/)!
+After a successful return of MISP² in 2024, 2025 and 2026, we continue the event in 2027 at the [Amsterdam University Medical Center (Amsterdam UMC)](https://www.amsterdamumc.nl/nl)!
 
-- **Date**: 27 Jan 2026, 9:00 – 17:00
-- **Location**: Collegezaal 5 (Room K-01-086, Route 558, main building) <small>(Maps: [inside](https://www.lumc.nl/siteassets/over-het-lumc/contact-algemeen/bestanden/lumc-routekaart-hoofdgebouw.pdf) and [outside](https://www.lumc.nl/siteassets/patientenzorg/uw-bezoek-aan-het-lumc/vind-uw-weg/parkeren/bestanden/plattegrond_lumc_eng.pdf) the hospital)</small>
-- **Registration**: Open was until 15 Dec 2025. Find more information on the <a href="{{ '/attend/' | relative_url }}">Attend page</a>.
+- **Date**: TBD
+- **Location**: TBD
+- **Registration**: TBD
 
 Follow our [LinkedIn page](https://www.linkedin.com/company/misp2) for updates!
 
