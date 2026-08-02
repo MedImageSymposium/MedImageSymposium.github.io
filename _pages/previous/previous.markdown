@@ -9,7 +9,7 @@ permalink: /previous/previous/
 <div style="flex: 1;">
 
 ## MISP²:
-
+<a href="{{ '/previous/2026/' | relative_url }}">2026</a>: Leiden - Leiden University Medical Center (LUMC)\
 <a href="{{ '/previous/2025/' | relative_url }}">2025</a>: Enschede - University of Twente\
 <a href="{{ '/previous/2024/' | relative_url }}">2024</a>: Amsterdam - Netherlands Cancer Institute
 
