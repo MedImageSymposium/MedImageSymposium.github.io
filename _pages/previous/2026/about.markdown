@@ -1,11 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
-title: "2026: Leiden"
-permalink: /previous/2026/
-exclude: true
+title: About
+permalink: /previous/2026/about/
 ---
 
 MISP², the Medical Imaging Symposium, is an annual symposium for Netherlands-based PhD students and postdoctoral researchers in medical imaging. The event serves as a platform for networking and sharing your research, fostering collaboration and knowledge exchange in the medical imaging field. It also gives an opportunity to young researchers to share their work and practice presentation skills. You are welcome to present any work, whether it's new or something you've previously done, published, or presented. Our primary aim is to foster collaborations inside the Netherlands.
@@ -18,7 +14,8 @@ MISP², the Medical Imaging Symposium, is an annual symposium for Netherlands-ba
     </a>
 </div>
 
-### Organization
+## Organization
+
 MISP² 2026 is hosted by [LKEB](https://www.lumc.nl/en/afdelingen/radiologie/division-of-image-processing-lkeb/) at the LUMC Leiden and organized by Jenia Makarevich, Dr. Alexander Vieth, Dr. Efe Ilicak, Baris Imre and Chinmay Rao.
 
 <b>Chinmay Rao</b> is a PhD candidate at LKEB working on multi-contrast MRI reconstruction and synthesis. His work aims at shortening MR exam times by leveraging redundancies across the various MR contrasts, using representation learning techniques to model the shared underlying anatomical structure and applying it in the reconstruction of images from highly undersampled raw data.  
@@ -42,4 +39,3 @@ Beyond her research, Jenia serves as Treasurer on the board of the LUMC Associat
 <div style="width: calc(85%); margin: auto;">
 <img src="/assets/images/2026/organizers_inside.jpg" alt="Organizer team 2026" style="border-radius: 50%; width: 100%; height: auto;">
 </div>
-

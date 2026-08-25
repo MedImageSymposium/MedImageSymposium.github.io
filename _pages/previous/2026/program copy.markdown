@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Program
-permalink: /program/
+permalink: /previous/2026/program/
 ---
-2027 WIP!
 
 **Date**: 27 Jan 2026, 9:00 – 17:00 <br>
 **Location**: Collegezaal 5 (Room K-01-086, Route 558, main LUMC building) <small>(Maps: [inside](https://www.lumc.nl/siteassets/over-het-lumc/contact-algemeen/bestanden/lumc-routekaart-hoofdgebouw.pdf) and [outside](https://www.lumc.nl/siteassets/patientenzorg/uw-bezoek-aan-het-lumc/vind-uw-weg/parkeren/bestanden/plattegrond_lumc_eng.pdf))</small> <br>
