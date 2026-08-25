@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MISP² 2026
+title: MISP² 2027
 author:
   email: misp2@lumc.nl
 email: misp2@lumc.nl

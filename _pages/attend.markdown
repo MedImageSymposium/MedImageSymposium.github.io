@@ -5,11 +5,11 @@ permalink: /attend/
 ---
 2027 WIP!
 
-We are excited to welcome you in Leiden for MISP² 2026! Are you interested in participating?
+We are excited to welcome you in Amsterdam for MISP² 2027! Are you interested in participating?
 
 ## Registration
 
-MISP² 2026 will take place on January 27th 2026, at the Leiden Medical University Centre.
+MISP² 2027 will take place on February .., at the ...
 
 The __registration deadline__ was 15 Dec 2025 at 23:59. Registration for this year is closed.
 
@@ -25,10 +25,10 @@ There is no registration fee.
 
 ## How to get there
 
-The [Leiden University Medical Center (LUMC)](https://www.lumc.nl/en/) is easy to reach by train or car.
+The [...](https://www.lumc.nl/en/) is easy to reach by train or car.
 The symposium will mainly take place in _Collegezaal 5 (Room K-01-086, Route 558, main building)_.
 To find the room, take the main entrance and follow the "Route" signs, additionally consult [this map](https://www.lumc.nl/siteassets/over-het-lumc/contact-algemeen/bestanden/lumc-routekaart-hoofdgebouw.pdf) or friendly hospital employees.
 
 <div style="text-align: center; margin-bottom: 20px;">
-    <img src="/assets/images/2026/plattegrond_lumc_eng.png" alt="Reaching LUMC by train or car" style="width: 600px;" />
+    <img src="/assets/images/2027/plattegrond_lumc_eng.png" alt="Reaching LUMC by train or car" style="width: 600px;" />
 </div>

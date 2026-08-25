@@ -5,9 +5,9 @@ permalink: /program/
 ---
 2027 WIP!
 
-**Date**: 27 Jan 2026, 9:00 – 17:00 <br>
+**Date**: Feb 2027, 9:00 – 17:00 <br>
 **Location**: Collegezaal 5 (Room K-01-086, Route 558, main LUMC building) <small>(Maps: [inside](https://www.lumc.nl/siteassets/over-het-lumc/contact-algemeen/bestanden/lumc-routekaart-hoofdgebouw.pdf) and [outside](https://www.lumc.nl/siteassets/patientenzorg/uw-bezoek-aan-het-lumc/vind-uw-weg/parkeren/bestanden/plattegrond_lumc_eng.pdf))</small> <br>
-The program including all talk and poster details is available as a <a href="https://medimagesymposium.github.io/assets/booklets/MISP2-booklet-2026.pdf">PDF</a>.
+The program including all talk and poster details is available as a <a href="https://medimagesymposium.github.io/assets/booklets/MISP2-booklet-2027.pdf">PDF</a>.
 
 <div class="schedule-container">
    <div class="schedule-item">
@@ -61,7 +61,7 @@ The program including all talk and poster details is available as a <a href="htt
 </div>
 <br>
 <div class="speakerimage right">
-<img src="/assets/images/2026/speaker_grootjans.jpg" alt="Willem Grootjans">
+<img src="/assets/images/2027/speaker_grootjans.jpg" alt="Willem Grootjans">
 </div>
 </div>
 
@@ -82,7 +82,7 @@ In his keynote, Willem will discuss: <br>
 </p>
 </div>
 <div style="width: calc(20% - 20px); padding-right: 30px; padding-left: 20px; float: right;">
-<img src="/assets/images/2026/speaker_mody.jpg" alt="Prerak Mody" style="border-radius: 50%; width: 100%; height: auto; max-width: 400px;">
+<img src="/assets/images/2027/speaker_mody.jpg" alt="Prerak Mody" style="border-radius: 50%; width: 100%; height: auto; max-width: 400px;">
 </div>
 </div>
 
@@ -93,7 +93,7 @@ In his keynote, Willem will discuss: <br>
 </p>
 </div>
 <div style="width: calc(20% - 20px); padding-right: 20px; padding-left: 30px; float: left;">
-<img src="/assets/images/2026/speaker_kitslaar.jpg" alt="Pieter Kitslaar" style="border-radius: 50%; width: 100%; height: auto; max-width: 400px;">
+<img src="/assets/images/2027/speaker_kitslaar.jpg" alt="Pieter Kitslaar" style="border-radius: 50%; width: 100%; height: auto; max-width: 400px;">
 </div>
 </div>
 
@@ -105,10 +105,10 @@ The talk will cover practical, research-relevant insights, including: <br>
 
 ## Abstract booklet
 
-All talk and poster details are listed in the MISP2 2026 booklet:
+All talk and poster details are listed in the MISP2 2027 booklet:
 
 <div style="margin-bottom: 20px;">
-    <a href="/assets/booklets/MISP2-booklet-2026.pdf">
-        <img src="/assets/booklets/MISP2-booklet-2026.png" alt="MISP booklet" style="width: 200px;" />
+    <a href="/assets/booklets/MISP2-booklet-2027.pdf">
+        <img src="/assets/booklets/MISP2-booklet-2027.png" alt="MISP booklet" style="width: 200px;" />
     </a>
 </div>
