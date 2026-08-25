@@ -3,7 +3,23 @@ layout: page
 title: Program
 permalink: /program/
 ---
-2027 WIP!
+
+
+<div style="position: relative;">
+    <!-- WIP overlay -->
+    <div style="
+        position: absolute;
+        top: 0;
+        left: 200;
+        width: 100%;
+        z-index: 100;
+        pointer-events: none;
+    ">
+        <img src="/assets/images/2027/WIP.png"
+             alt="Work in progress"
+             style="width: 100%; height: 100%; display: block;">
+    </div>
+<!--
 
 **Date**: Feb 2027, 9:00 – 17:00 <br>
 **Location**: Collegezaal 5 (Room K-01-086, Route 558, main LUMC building) <small>(Maps: [inside](https://www.lumc.nl/siteassets/over-het-lumc/contact-algemeen/bestanden/lumc-routekaart-hoofdgebouw.pdf) and [outside](https://www.lumc.nl/siteassets/patientenzorg/uw-bezoek-aan-het-lumc/vind-uw-weg/parkeren/bestanden/plattegrond_lumc_eng.pdf))</small> <br>
@@ -56,7 +72,7 @@ The program including all talk and poster details is available as a <a href="htt
 <div class="speaker">
 <div style="width: 73%; float: left;">
 <p>
-<a href="https://www.linkedin.com/in/willem-grootjans-1b02b449/">Willem Grootjans</a> is an assistant professor and technical physician at the Department of Radiology at LUMC. He graduated cum laude in Technical Medicine (Robotics & Imaging) at the University of Twente, completed his PhD at Radboud UMC on PET imaging for personalized lung-cancer management, and continued his postdoctoral work in advanced oncologic imaging at LUMC. In 2018, he founded the Imaging Services Group (ISG), a specialized unit delivering high-quality, AI-enhanced image processing for routine radiological reporting. Since 2019, he has led the ISG, driving innovation across clinical workflows and implementing technologies that meaningfully support healthcare professionals while keeping patient needs at the center.
+<a href="https://www.linkedin.com/in/willem-grootjans-1b02b449/">guest 1</a> is an assistant professor and technical physician at the Department of Radiology at LUMC...
 </p>
 </div>
 <br>
@@ -67,18 +83,15 @@ The program including all talk and poster details is available as a <a href="htt
 
 Radiology faces rising demand, increasing workload, and growing complexity. While AI tools for detection, triage, and workflow optimization are rapidly emerging, real-world implementation remains the true challenge. <br>
 In his keynote, Willem will discuss: <br>
-- How AI can be integrated into real clinical workflows <br>
-- What technical infrastructure is required <br>
-- Examples of AI tools already deployed in practice, such as automated chest X-ray reporting system <br>
-- How clinicians and IT teams can collaborate to make AI adoption successful and sustainable 
-
+- ..ws <br>
+- What te..ture is required <br>
 
 ### Keynote II: Prerak Mody & Pieter Kitslaar (Medis)
 
 <div class="speaker">
 <div class="speakerbio">
 <p>
-<a href="https://www.linkedin.com/in/prerakmody/">Prerak Mody</a> received his PhD in artificial intelligence for medical imaging at Leiden University Medical Center. He has over 6 years of experience applying deep learning techniques in the field of medical imaging, both in academia and industry. He is currently a researcher at Medis Medical Imaging where he explores tools to help better understand data at scale. 
+<a href="https://www.linkedin.com/in/prerakmody/">guest 2</a> r... 
 </p>
 </div>
 <div style="width: calc(20% - 20px); padding-right: 30px; padding-left: 20px; float: right;">
@@ -89,7 +102,7 @@ In his keynote, Willem will discuss: <br>
 <div class="speaker">
 <div class="speakerbio right">
 <p>
-<a href="https://www.linkedin.com/in/pieter-kitslaar-1a95534/">Pieter Kitslaar</a> has worked for more than 15 years with cardiac imaging, using both classical and AI techniques. Cardiac CT software co-developed by him has been used in 150+ publications together with clinical collaborators across the world. He is currently head of the Applied Research department at Medis. 
+<a href="https://www.linkedin.com/in/pieter-kitslaar-1a95534/">Guest 4</a> ..
 </p>
 </div>
 <div style="width: calc(20% - 20px); padding-right: 20px; padding-left: 30px; float: left;">
@@ -97,11 +110,10 @@ In his keynote, Willem will discuss: <br>
 </div>
 </div>
 
-Pieter and Prerak will share the history of Medis and its journey to release AI-enabled image-processing software for cardiac MR, CT, US, and X-ray scans used by clinics worldwide. Deploying AI applications in clinical settings is a multi-faceted challenge, and they highlight why data, not just models, often determines success or failure in clinical AI. <br>
+... <br>
 The talk will cover practical, research-relevant insights, including: <br>
-- How to obtain quality-controlled annotated data. <br>
-- What tools to use to predict dataset requirements. <br>
-- How to maintain an increasing number of AI models in real-world applications. <br>
+- ....lled annotated data. <br>
+
 
 ## Abstract booklet
 
@@ -112,3 +124,5 @@ All talk and poster details are listed in the MISP2 2027 booklet:
         <img src="/assets/booklets/MISP2-booklet-2027.png" alt="MISP booklet" style="width: 200px;" />
     </a>
 </div>
+</div>
+-->

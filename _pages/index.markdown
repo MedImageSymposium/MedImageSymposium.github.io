@@ -6,6 +6,22 @@ layout: page
 title: Medical Imaging Symposium
 permalink: /
 ---
+
+<div style="position: relative;">
+    <!-- WIP overlay -->
+    <div style="
+        position: absolute;
+        top: 0;
+        left: 200;
+        width: 100%;
+        z-index: 100;
+        pointer-events: none;
+    ">
+        <img src="/assets/images/2027/WIP.png"
+             alt="Work in progress"
+             style="width: 100%; height: 100%; display: block;">
+    </div>
+    
 2027 WIP!
 
 MISP² is an annual symposium for Netherlands-based PhD students and postdoctoral researchers in medical imaging. The event serves as a platform for networking and sharing your research, fostering collaboration and knowledge exchange in the medical imaging field.
