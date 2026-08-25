@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Registration
-permalink: /registration/
+permalink: /notused/registration/
 ---
 
 tba

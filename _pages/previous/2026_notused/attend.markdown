@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Attend
-permalink: /previous/2026/attend/
+permalink: /notused/attend/
 ---
 
 We are excited to welcome you in Leiden for MISP² 2026! Are you interested in participating?

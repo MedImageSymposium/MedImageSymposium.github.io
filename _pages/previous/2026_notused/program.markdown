@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Program
-permalink: /previous/2026/program/
+permalink: /notused/program/
 ---
 
 **Date**: 27 Jan 2026, 9:00 – 17:00 <br>
