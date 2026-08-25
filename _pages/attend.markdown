@@ -17,7 +17,8 @@ permalink: /attend/
              alt="Work in progress"
              style="width: 100%; height: 100%; display: block;">
     </div>
-    
+
+<!-- 
 We are excited to welcome you in Amsterdam for MISP² 2027! Are you interested in participating?
 ## Registration
 
@@ -34,3 +35,4 @@ The [...](https://www.lumc.nl/en/)
     <img src="/assets/images/2027/plattegrond_lumc_eng.png" alt="Reaching .. by train or car" style="width: 600px;" />
 </div>
 </div>
+-->
