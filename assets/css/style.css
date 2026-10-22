@@ -78,6 +78,14 @@
 .organizer-bio {
     flex: 1;
     min-width: 0;
+    text-align: justify;
+}
+.organizer-bio h2 {
+    text-align: left;
+}
+
+.organizer-bio p {
+    text-align: justify;
 }
 
 .organizer-bio h3 {

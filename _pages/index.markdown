@@ -19,7 +19,7 @@ MISP² is an annual symposium for Netherlands-based PhD students and postdoctora
 Following successful editions across the Netherlands in Amsterdam (2024), Enschede (2025), and Leiden (2026), MISP² returns to Amsterdam in 2027, hosted by [Amsterdam UMC]("https://www.amsterdamumc.org/en").
 
 - **Date**: 17 February 2027, 9:00 – 17:00
-- **Location**: tbd
+- **Location**: [Science Park 904!](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/contact-and-location/getting-here/route-description-science-park-904.html)
 - **Registration**: tbd
 
 <!-- Collegezaal 5 (Room K-01-086, Route 558, main building) <small>(Maps: [inside](https://www.lumc.nl/siteassets/over-het-lumc/contact-algemeen/bestanden/lumc-routekaart-hoofdgebouw.pdf) and [outside](https://www.lumc.nl/siteassets/patientenzorg/uw-bezoek-aan-het-lumc/vind-uw-weg/parkeren/bestanden/plattegrond_lumc_eng.pdf) the hospital)</small>
