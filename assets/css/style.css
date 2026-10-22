@@ -68,15 +68,11 @@
 }
 
 .organizer-photo {
-    display: block;
     width: 170px;
     height: 170px;
-    min-width: 170px;
-    max-width: 170px;
-    flex: 0 0 170px;
+    flex-shrink: 0;
     object-fit: cover;
-    border-radius: 50% !important;
-    overflow: hidden;
+    border-radius: 50%;
 }
 
 .organizer-bio {
@@ -109,16 +105,9 @@
     }
 
     .organizer-photo {
-    display: block;
-    width: 170px;
-    height: 170px;
-    min-width: 170px;
-    max-width: 170px;
-    flex: 0 0 170px;
-    object-fit: cover;
-    border-radius: 50% !important;
-    overflow: hidden;
-}
+        width: 170px;
+        height: 170px;
+    }
 
     .organizer-bio h3 {
         font-size: 1.2rem;
