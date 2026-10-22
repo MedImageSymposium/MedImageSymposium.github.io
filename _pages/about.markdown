@@ -24,7 +24,7 @@ MISP² 2027 is hosted by [Amsterdam UMC](https://bme-physics.nl/), at the [Scien
 Five people, one event, and plenty of work behind the scenes. Get to know the team bringing this year’s edition to life! 👋
 
 <div class="organizer-profile">
-    <img src="/assets/images/2027/Leah.jpg"
+    <img src="/assets/images/2027/leah.jpg"
          alt="Leah Wilk"
          class="organizer-photo">
     <div class="organizer-bio">
