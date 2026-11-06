@@ -31,7 +31,7 @@ Five people, one event, and plenty of work behind the scenes. Get to know the te
         <h3>Dr. Leah S. Wilk</h3>
         <p><em>PostDoc · Biomedical Engineering & Physics Department, Amsterdam UMC</em></p>
         <p style="text-align: justify;">🧠 <b>Research:</b>  Working on multiphysics modelling and digital twins for forensic and biomedical applications, for which she recently received a Veni grant (🎉).</p>
-        <p style="text-align: justify;">🥾<b>Outside the lab:</b>An outdoor enthusiast who loves hiking, climbing, and kickboxing, but also enjoys a good book, drawing, and playing the banjo.</p>
+        <p style="text-align: justify;">🥾<b>Outside the lab:</b> An outdoor enthusiast who loves hiking, climbing, and kickboxing, but also enjoys a good book, drawing, and playing the banjo.</p>
     </div>
 </div>
 
